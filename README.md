@@ -1,6 +1,6 @@
 # SimpleBrowser
 
-Write a very simple browser in Ruby/TKinter that connect to a website using sockets, TCPIP, http1.1 or the new standard http2 and present the content inside a window having vertical and horizontal scroolbars.
+Write a very simple browser in Ruby/TKinter that connect to a website using sockets, TCP/IP, http1.1 or the new standard http2 and present the content inside a window having vertical and horizontal scroolbars.
 
 Menus:
 
